@@ -1,0 +1,32 @@
+<resources>
+    <!-- Основные строки -->
+    <string name="app_name">Арт Пространство</string>
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+
+    <!-- Описания для доступности -->
+    <string name="previous_button_desc">Показать предыдущую работу</string>
+    <string name="next_button_desc">Показать следующую работу</string>
+    <string name="image_description">Изображение экспоната</string>
+
+    <!-- Данные для экспонатов -->
+    <string name="artwork1_title">Парус под мостом</string>
+    <string name="artwork1_author">Кэт Куан</string>
+    <string name="artwork1_year">2017</string>
+    <string name="artwork1_description">Прекрасная картина маслом, изображающая парусник, проходящий под историческим мостом на закате.</string>
+
+    <string name="artwork2_title">Горный рассвет</string>
+    <string name="artwork2_author">Алекс Чен</string>
+    <string name="artwork2_year">2020</string>
+    <string name="artwork2_description">Раннее утро в горах с первыми лучами солнца, касающимися вершин.</string>
+
+    <string name="artwork3_title">Городские грёзы</string>
+    <string name="artwork3_author">Мария Родригес</string>
+    <string name="artwork3_year">2019</string>
+    <string name="artwork3_description">Абстрактное представление городской жизни с яркими цветами и геометрическими формами.</string>
+
+    <string name="artwork4_title">Натюрморт с цветами</string>
+    <string name="artwork4_author">Джеймс Уилсон</string>
+    <string name="artwork4_year">2015</string>
+    <string name="artwork4_description">Традиционная картина натюрморта с вазой диких цветов на деревянном столе.</string>
+</resources>
