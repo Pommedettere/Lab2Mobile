@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mob2lab"
+    namespace = "com.example.lab2mob"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.mob2lab"
+        applicationId = "com.example.lab2mob"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

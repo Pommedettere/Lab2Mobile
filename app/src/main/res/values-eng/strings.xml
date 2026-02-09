@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App title -->
+    <string name="app_name">Art Space</string>
+    
+    <!-- Navigation buttons -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="previous_button_description">Go to previous artwork</string>
+    <string name="next_button_description">Go to next artwork</string>
+    <string name="previous_button_disabled">Previous button: disabled, this is the first image</string>
+    <string name="next_button_disabled">Next button: disabled, this is the last image</string>
+    
+    <!-- Accessibility - ДОБАВЬТЕ ЭТУ СТРОКУ! -->
+    <string name="artwork_image_description">%1$s, author: %2$s</string>
+    
+    <!-- Artworks titles -->
+    <string name="artwork_title_1">Starry Night</string>
+    <string name="artwork_title_2">Mona Lisa</string>
+    <string name="artwork_title_3">The Persistence of Memory</string>
+    <string name="artwork_title_4">The Scream</string>
+    <string name="artwork_title_5">Girl with a Pearl Earring</string>
+    
+    <!-- Artworks authors -->
+    <string name="artwork_author_1">Vincent van Gogh</string>
+    <string name="artwork_author_2">Leonardo da Vinci</string>
+    <string name="artwork_author_3">Salvador Dali</string>
+    <string name="artwork_author_4">Edvard Munch</string>
+    <string name="artwork_author_5">Johannes Vermeer</string>
+    
+    <!-- Artworks years -->
+    <string name="artwork_year_1">1889</string>
+    <string name="artwork_year_2">1503</string>
+    <string name="artwork_year_3">1931</string>
+    <string name="artwork_year_4">1893</string>
+    <string name="artwork_year_5">1665</string>
+</resources>

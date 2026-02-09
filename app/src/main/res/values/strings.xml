@@ -1,32 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Основные строки -->
     <string name="app_name">Арт Пространство</string>
-    <string name="previous">Предыдущий</string>
-    <string name="next">Следующий</string>
 
-    <!-- Описания для доступности -->
-    <string name="previous_button_desc">Показать предыдущую работу</string>
-    <string name="next_button_desc">Показать следующую работу</string>
-    <string name="image_description">Изображение экспоната</string>
+    <string name="previous">Назад</string>
+    <string name="next">Вперед</string>
+    <string name="previous_button_description">Перейти к предыдущему произведению искусства</string>
+    <string name="next_button_description">Перейти к следующему произведению искусства</string>
+    <string name="previous_button_disabled">Кнопка Назад: недоступна, это первое изображение</string>
+    <string name="next_button_disabled">Кнопка Вперед: недоступна, это последнее изображение</string>
 
-    <!-- Данные для экспонатов -->
-    <string name="artwork1_title">Парус под мостом</string>
-    <string name="artwork1_author">Кэт Куан</string>
-    <string name="artwork1_year">2017</string>
-    <string name="artwork1_description">Прекрасная картина маслом, изображающая парусник, проходящий под историческим мостом на закате.</string>
+    <string name="artwork_image_description">%1$s, автор: %2$s</string>
 
-    <string name="artwork2_title">Горный рассвет</string>
-    <string name="artwork2_author">Алекс Чен</string>
-    <string name="artwork2_year">2020</string>
-    <string name="artwork2_description">Раннее утро в горах с первыми лучами солнца, касающимися вершин.</string>
+    <string name="artwork_title_1">Звездная ночь</string>
+    <string name="artwork_title_2">Мона Лиза</string>
+    <string name="artwork_title_3">Постоянство памяти</string>
+    <string name="artwork_title_4">Крик</string>
+    <string name="artwork_title_5">Девушка с жемчужной сережкой</string>
 
-    <string name="artwork3_title">Городские грёзы</string>
-    <string name="artwork3_author">Мария Родригес</string>
-    <string name="artwork3_year">2019</string>
-    <string name="artwork3_description">Абстрактное представление городской жизни с яркими цветами и геометрическими формами.</string>
+    <string name="artwork_author_1">Винсент Ван Гог</string>
+    <string name="artwork_author_2">Леонардо да Винчи</string>
+    <string name="artwork_author_3">Сальвадор Дали</string>
+    <string name="artwork_author_4">Эдвард Мунк</string>
+    <string name="artwork_author_5">Йоханнес Вермеер</string>
 
-    <string name="artwork4_title">Натюрморт с цветами</string>
-    <string name="artwork4_author">Джеймс Уилсон</string>
-    <string name="artwork4_year">2015</string>
-    <string name="artwork4_description">Традиционная картина натюрморта с вазой диких цветов на деревянном столе.</string>
+    <string name="artwork_year_1">1889</string>
+    <string name="artwork_year_2">1503</string>
+    <string name="artwork_year_3">1931</string>
+    <string name="artwork_year_4">1893</string>
+    <string name="artwork_year_5">1665</string>
 </resources>
