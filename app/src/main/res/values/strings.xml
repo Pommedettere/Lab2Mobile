@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Арт Пространство</string>
+
+    <string name="previous">Назад</string>
+    <string name="next">Вперед</string>
+    <string name="previous_button_description">Перейти к предыдущему произведению искусства</string>
+    <string name="next_button_description">Перейти к следующему произведению искусства</string>
+    <string name="previous_button_disabled">Кнопка Назад: недоступна, это первое изображение</string>
+    <string name="next_button_disabled">Кнопка Вперед: недоступна, это последнее изображение</string>
+
+    <string name="artwork_image_description">%1$s, автор: %2$s</string>
+
+    <string name="artwork_title_1">Звездная ночь</string>
+    <string name="artwork_title_2">Мона Лиза</string>
+    <string name="artwork_title_3">Постоянство памяти</string>
+    <string name="artwork_title_4">Крик</string>
+    <string name="artwork_title_5">Девушка с жемчужной сережкой</string>
+
+    <string name="artwork_author_1">Винсент Ван Гог</string>
+    <string name="artwork_author_2">Леонардо да Винчи</string>
+    <string name="artwork_author_3">Сальвадор Дали</string>
+    <string name="artwork_author_4">Эдвард Мунк</string>
+    <string name="artwork_author_5">Йоханнес Вермеер</string>
+
+    <string name="artwork_year_1">1889</string>
+    <string name="artwork_year_2">1503</string>
+    <string name="artwork_year_3">1931</string>
+    <string name="artwork_year_4">1893</string>
+    <string name="artwork_year_5">1665</string>
+</resources>
